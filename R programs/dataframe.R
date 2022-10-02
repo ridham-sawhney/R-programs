@@ -1,0 +1,1 @@
+BMI<-(gender=c('male','male','female'),height=c(152,171.5,165),weight=(83,93,78))

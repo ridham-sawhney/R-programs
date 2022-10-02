@@ -1,0 +1,15 @@
+#calculations
+x=50
+y=20
+sum=x+y
+dif=x-y
+div=x/y
+product=x*y
+cat("Sum=")
+print(sum)
+cat("Difference=")
+print(dif)
+cat("div=")
+print(div)
+cat("product=")
+print(product)
